@@ -2,25 +2,21 @@ package step6;
 
 import java.util.Scanner;
 
-public class Bj_3052 {
+public class Bj_8958 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner scan = new Scanner(System.in);
 
-		int[] arr = new int[10];
+		int n = scan.nextInt();
 
+		String[] arr = new String[n];
 		for(int i=0; i<arr.length; i++) {
-			arr[i] = scan.nextInt();
+			arr[i] = scan.next();
 		}
-		
-		int[] mod = new int[10];
-		for(int i=0; i<arr.length; i++) {
-			mod[i] = arr[i]%42;
-		}
-		
-		int count =0;
-		
+
+		String s = "O";
+
 	}
 
 }
