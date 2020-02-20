@@ -10,11 +10,10 @@ public class Bj_5622 {
 
 		String words = scan.next();
 
-		int sum = 0;
-		char[] arr = new char[15];
+		int sum = 0; 
+		char[] arr = words.toCharArray();  //toCharArray(): String -> char
 
-		for(int i=0; i<words.length(); i++) {
-			arr[i] = words.charAt(i);
+		for(int i=0; i<arr.length; i++) {
 			sum += dial(arr[i]) + 1;
 		}
 		System.out.println(sum);
@@ -24,8 +23,8 @@ public class Bj_5622 {
 	static int dial(char c) {
 		switch(c) {
 		case 'A':
-		case 'b':
-		case 'c':
+		case 'B':
+		case 'C':
 			return 2;
 		case 'D':
 		case 'E':
