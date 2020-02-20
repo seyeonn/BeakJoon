@@ -17,6 +17,7 @@ public class Bj_2675 {
 				for(int k=0; k<r; k++) {
 					System.out.print(s.charAt(j));
 				}
+				System.out.println();
 			}
 		}
 
