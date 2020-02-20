@@ -10,20 +10,12 @@ public class Bj_2941 {
 
 		String words = scan.next();
 
-		char[] arr = words.toCharArray();
+		String[] cro = {"c=","c-","dz=","d-","lj","nj","s=","z="};
 
-		int sum =0;
-
-		for(int i=0; i<arr.length; i++) {
-			cro(arr[i]);	
+		for(int i=0; i<cro.length; i++) {
+			words = words.replace(cro[i], "a");	//old 문자열을 new 문자열로 바꾼다
 		}
+		System.out.println(words.length());
 	}
 
-	static int cro(char c) {
-		switch (c) {
-		case 'c=':
-		case 'c-':
-			
-		}
-	}
 }
