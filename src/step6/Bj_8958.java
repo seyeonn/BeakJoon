@@ -9,14 +9,26 @@ public class Bj_8958 {
 		Scanner scan = new Scanner(System.in);
 
 		int n = scan.nextInt();
-
-		String[] arr = new String[n];
-		for(int i=0; i<arr.length; i++) {
-			arr[i] = scan.next();
+		int[] score = new int[n];
+		
+		for(int i=0; i<n; i++) {
+			score[i] = 0;
+			String str = scan.next();
+			
+			int temp =1;
+			for(int j=0; j<str.length(); j++) {
+				if(str.charAt(j) == 'O') {
+					score[i] += temp;
+					temp++;
+				}
+				else
+					temp=1;
+			}
+		}
+		
+		for(int i=0; i<score.length; i++) {
+			System.out.println(score[i]);
 		}
 
-		String s = "O";
-
 	}
-
 }
