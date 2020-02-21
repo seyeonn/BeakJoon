@@ -10,12 +10,14 @@ public class Bj_11720 {
 
 		int n = scan.nextInt();
 		int total =0;
+
+		String str = scan.next();
+		char[] arr = str.toCharArray();
 		
-		for(int i=0; i<n; i++) {
-			char c = scan.next().charAt(i);
-			total += c;
+		for(int i=0; i<arr.length; i++) {
+			total += arr[i]-'0';
 		}
-		
+
 		System.out.println(total);
 	}
 
