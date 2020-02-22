@@ -10,13 +10,10 @@ public class Bj_10809 {
 
 		String s = scan.next();
 		
-		for(int i=0; i<25; i++) {
-			
+		for(char i = 'a'; i<='z'; i++) {
+			System.out.print(s.indexOf(i)+" ");
 		}
-
-
-
-
+		
 	}
 
 }
