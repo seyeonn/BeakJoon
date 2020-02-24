@@ -28,9 +28,6 @@ public class Bj_1110 {
 			++count;
 		}
 
-
-
-
 		//		while(scan.hasNext()) {      초안 코드 -> 실행 결과 안 뜸. 
 		//			int temp = num;	         오답 -> 반복문 돌릴때 마다 변수 temp에 초기 입력받았던 num 변수 값으로 초기화된다
 		//			int a = temp%10;
