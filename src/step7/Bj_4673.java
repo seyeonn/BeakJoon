@@ -48,7 +48,7 @@ public class Bj_4673 {
 			num[3] = n%10;
 			sum = num[0] + num[1] + num[2] + num[3] + n;
 
-			if(sum >= 10000)
+			if(sum >= 10000)  //10000이 셀프넘버여서 >=써준다
 				return 0;
 			check[sum] = true;	
 		}
