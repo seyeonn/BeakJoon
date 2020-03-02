@@ -10,23 +10,26 @@ public class Bj_4948 {
 
 		while(true) {
 			int n = scan.nextInt();
-			int count=0;
-			if(n == 0)
+			if(n ==0)
 				break;
-			else {
-				for(int j=n; j<=2*n; j++) {
-					int check =0;
 
-					for(int k=1; k<=j; k++) {
-						if(j%k == 0)
-							check++;
-					}
-
-					if(check == 2)
-						count++;	
+			boolean[] check = new boolean[n*2+1];
+			check[0] = true;
+			check[1] = true;
+			
+			int count =0;
+			
+			for(int i=2; i<=n*2; i++) {
+				for(int j=2; i*j<=n*2; j++) {
+					check[i*j] = true;
 				}
-				System.out.println(count);
 			}
+			
+			for(int k=n+1; k<=2*n; k++) {
+				if(!check[k])
+					count++;
+			}
+			System.out.println(count);
 		}
 	}
 
