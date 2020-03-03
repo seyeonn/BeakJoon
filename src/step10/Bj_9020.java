@@ -9,19 +9,20 @@ public class Bj_9020 {
 		Scanner scan = new Scanner(System.in);
 
 		int t = scan.nextInt();
-		boolean[] check = new boolean[10000];
+		boolean[] check = new boolean[5082];
+		//최대 입력값 10000을 넣어본 결과 더해지는 값 중 가장 큰 값이 5081로 나옴.
+		
 		check[0]=true;
 		check[1]=true;
 
+		for(int j=2; j<=5081; j++) {
+			for(int k=2; j*k<=5081; k++) {
+				check[j*k] = true;
+			}
+		}
+
 		for(int i=0; i<t; i++) {
 			int n = scan.nextInt();
-
-			for(int j=2; j<=n; j++) {
-				for(int k=2; j*k<=n; k++) {
-					check[j*k] = true;
-				}
-			}
-
 			int x = n/2;
 			int y = n/2;
 
