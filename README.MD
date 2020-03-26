@@ -1,5 +1,9 @@
 # 백준 알고리즘 문제 풀이
 
+(README 출처 : @audtjr9514)
+
+@audtjr9514 @nsap19 과 함께하는 자바로 풀어보는 백준 알고리즘 단계별 - 효율적으로 하고있는지는 모르겠지만 일단 풀어본다
+
 ### 백준 알고리즘의 단계별 풀어보기
 
 - #### ID : [seyeonn](https://www.acmicpc.net/user/seyeonn)
@@ -14,29 +18,25 @@
   | [**Comparable와 Comparator의 차이점 및 사용**](https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/주석/ComparableAndComparator.MD) |
   | [**정렬 정리**](https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/주석/Sort.MD) |
 
-(README 출처 : @audtjr9514)
-
-@audtjr9514 @nsap19 과 함께하는 자바로 풀어보는 백준 알고리즘 단계별 - 효율적으로 하고있는지는 모르겠지만 일단 풀어본다
-
 - #### INDEX
 
-  - **[1단계 : 입출력과 사칙연산](https://github.com/seyeonn/BeakJoon/tree/master/src/step1#1단계--입출력과-사칙연산-_-finished)**
-  - **[2단계 : if문](https://github.com/seyeonn/BeakJoon/tree/master/src/step2#2단계--if문-_-finished)**
-  - **[3단계 : for문](https://github.com/seyeonn/BeakJoon/tree/master/src/step3#3단계--for문-_-finished)**
-  - **[4단계 : while문](https://github.com/seyeonn/BeakJoon/tree/master/src/step4#4단계--while문-_-finished)**
-  - **[5단계 : 실습 1](https://github.com/seyeonn/BeakJoon/tree/master/src/step5#5단계--실습-1)**
-  - **[6단계 : 1차원 배열](https://github.com/seyeonn/BeakJoon/tree/master/src/step6#6단계--1차원-배열-_-finished)**
-  - **[7단계 : 함수](https://github.com/seyeonn/BeakJoon/tree/master/src/step7#7단계--함수-_-finished)**
-  - **[8단계 : 문자열](https://github.com/seyeonn/BeakJoon/tree/master/src/step8#8단계--문자열-_-finished)**
-  - **[9단계 : 수학 1](https://github.com/seyeonn/BeakJoon/tree/master/src/step9#9단계--수학-1-_-finished)**
-  - **[10단계 : 수학 2](https://github.com/seyeonn/BeakJoon/tree/master/src/step10#10단계--수학-2-_-finished)**
-  - **[11단계 : 재귀](https://github.com/seyeonn/BeakJoon/tree/master/src/step11#11단계--재귀-_-finished)**
-  - **[12단계 : 실습 2](https://github.com/seyeonn/BeakJoon/tree/master/src/step12#12단계--실습-2)**
-  - **[13단계 : 브루트 포스](https://github.com/seyeonn/BeakJoon/tree/master/src/step13#13단계--브루트-포스-_-finished)**
-  - **[14단계 : 정렬](https://github.com/seyeonn/BeakJoon/tree/master/src/step14#14단계--정렬-_-finished)**
-  - **[15단계 : 백트래킹](https://github.com/seyeonn/BeakJoon/tree/master/src/step15#15단계--백트래킹-_-finished)**
-  - **[16단계 : 동적 계획법 1](https://github.com/seyeonn/BeakJoon/tree/master/src/step16#16단계--동적-계획법-_-ing)**
-  - **[Etc](https://github.com/seyeonn/BeakJoon/tree/master/src/etc#etc-_-finished)**
+  - **[1단계 : 입출력과 사칙연산](https://github.com/seyeonn/BeakJoon/blob/master/README.MD#1단계--입출력과-사칙연산-_-finished)**
+  - **[2단계 : if문](https://github.com/seyeonn/BeakJoon/blob/master/README.MD#2단계--if문-_-finished)**
+  - **[3단계 : for문](https://github.com/seyeonn/BeakJoon/blob/master/README.MD#3단계--for문-_-finished)**
+  - **[4단계 : while문](https://github.com/seyeonn/BeakJoon/blob/master/README.MD#4단계--while문-_-finished)**
+  - **[5단계 : 실습 1](https://github.com/seyeonn/BeakJoon/blob/master/README.MD#5단계--실습-1)**
+  - **[6단계 : 1차원 배열](https://github.com/seyeonn/BeakJoon/blob/master/README.MD#6단계--1차원-배열-_-finished)**
+  - **[7단계 : 함수](https://github.com/seyeonn/BeakJoon/blob/master/README.MD#7단계--함수-_-finished)**
+  - **[8단계 : 문자열](https://github.com/seyeonn/BeakJoon/blob/master/README.MD#8단계--문자열-_-finished)**
+  - **[9단계 : 수학 1](https://github.com/seyeonn/BeakJoon/blob/master/README.MD#9단계--수학-1-_-finished)**
+  - **[10단계 : 수학 2](https://github.com/seyeonn/BeakJoon/blob/master/README.MD#10단계--수학-2-_-finished)**
+  - **[11단계 : 재귀](https://github.com/seyeonn/BeakJoon/blob/master/README.MD#11단계--재귀-_-finished)**
+  - **[12단계 : 실습 2](https://github.com/seyeonn/BeakJoon/blob/master/README.MD#12단계--실습-2)**
+  - **[13단계 : 브루트 포스](https://github.com/seyeonn/BeakJoon/blob/master/README.MD#13단계--브루트-포스-_-finished)**
+  - **[14단계 : 정렬](https://github.com/seyeonn/BeakJoon/blob/master/README.MD#14단계--정렬-_-finished)**
+  - **[15단계 : 백트래킹](https://github.com/seyeonn/BeakJoon/blob/master/README.MD#15단계--백트래킹-_-finished)**
+  - **[16단계 : 동적 계획법 1](https://github.com/seyeonn/BeakJoon/blob/master/README.MD#16단계--동적-계획법-_-ing)**
+  - **[Etc](https://github.com/seyeonn/BeakJoon/blob/master/README.MD#etc-_-finished)**
 
 ------
 
@@ -44,7 +44,7 @@
 
 - #### 1단계 : 입출력과 사칙연산 _ Finished
 
-  1. [**2557번**](https://github.com/seyeonn/BeakJoon/blob/master/src/step1/Bj_1003.java) : Hello World
+  1. [**2557번**](https://github.com/seyeonn/BeakJoon/blob/master/src/step1/Bj_2557.java) : Hello World
   2. [**10718번**](https://github.com/seyeonn/BeakJoon/blob/master/src/step1/Bj_10718.java) : we love kriii
   3. [**10171번**](https://github.com/seyeonn/BeakJoon/blob/master/src/step1/Bj_10171.java) : 고양이
   4. [**10172번**](https://github.com/seyeonn/BeakJoon/blob/master/src/step1/Bj_10172.java) : 개
