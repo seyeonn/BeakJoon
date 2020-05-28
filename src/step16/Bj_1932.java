@@ -32,7 +32,7 @@ public class Bj_1932 {
 				if (m == 0)
 					tri[k][m] = tri[k - 1][0] + tri[k][m];
 				else if (m == k)
-					tri[k][m] = tri[k - 1][m] + tri[k][m];
+					tri[k][m] = tri[k - 1][m-1] + tri[k][m];
 				else
 					tri[k][m] = Max(tri[k - 1][m - 1], tri[k - 1][m]) + tri[k][m];
 			}
