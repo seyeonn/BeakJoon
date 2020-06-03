@@ -15,20 +15,30 @@ public class Bj_10844 {
 		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
 		int n = Integer.parseInt(br.readLine());
-		long arr[][] = new long[101][10];
+		long arr[][] = new long[n+1][10];
+		int i;
+		long count = 0;
 
-		for(int i=1; i<101; i++) {
+		for(i=1; i<10; i++) {
+			arr[1][i] = 1;
+		}
+
+		for(i=2; i<n+1; i++) {
 			for(int m=0; m<10; m++) {
-				arr[1][m] = 1;
 				if(m == 0)
-					arr[i][0] = arr[i-1][1];
-				if(m == 9)
-					arr[i][9] = arr[i-1][8];
-				arr[i][m] = arr[i-1][m-1] + arr[i-1][m+1];
+					arr[i][0] = arr[i-1][1]% 1000000000;
+				else if(m == 9)
+					arr[i][9] = arr[i-1][8]% 1000000000;
+				else
+					arr[i][m] = (arr[i-1][m-1] + arr[i-1][m+1]) % 1000000000;
 			}
 		}
 
-		bw.write(String.valueOf(arr[n][n]));
+		for(i = 0; i < 10; i++) {
+			count += arr[n][i];
+		}
+
+		bw.write(String.valueOf(count% 1000000000));
 
 		br.close();
 		bw.close();
