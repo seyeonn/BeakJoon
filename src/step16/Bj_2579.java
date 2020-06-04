@@ -19,25 +19,24 @@ public class Bj_2579 {
 
 		for (int i = 0; i < n; i++) {
 			num[i] = Integer.parseInt(br.readLine());
-			bw.write("\n");
 		}
+		if(n==1)
+			score[0] = num[0];
+		else if(n==2)
+			score[1] = num[0] + num[1];
+		else {
+			score[0] = num[0];
+			score[1] = num[0] + num[1];
+			score[2] = Math.max(num[0]+num[2], num[1]+num[2]);
 
-		num[1] = 30;
 
-		for(int j=3; j<n; j++) {
-			System.out.println(num[j]);
-			score[j] = Max(num[j-1]+num[j-3],num[j-2]) + num[j];
-			System.out.println("after:" + score[j]);
+			for(int j=3; j<n; j++) {
+				score[j] = Math.max(num[j-1]+score[j-3]+ num[j] ,score[j-2]+ num[j]) ;
+			}
 		}
-
-		bw.write(String.valueOf(score[n]));
+		bw.write(String.valueOf(score[n-1]));
 
 		br.close();
 		bw.close();
 	}
-
-	public static int Max(int a, int b) {
-		return a > b ? a : b;
-	}
-
 }
