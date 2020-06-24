@@ -207,14 +207,14 @@
 
 - #### 15단계 : 백트래킹 _ ~ing
 
-  1. [**15649 swap 풀이 ★**](https://github.com/seyeonn/BeakJoon/blob/master/src/step15/Bj_15649_1.java) / [**DFS풀이 ★★**](https://github.com/seyeonn/BeakJoon/blob/master/src/Bj_15649_2.java): N과 M (1) _ 순열 _ [**주석**](https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/주석/Bj_15649 설명.jpg)
-  2. [**15650**](https://github.com/seyeonn/BeakJoon/blob/master/src/Bj_15650.java): N과 M (2) _ 조합 _ [**주석**](https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/주석/Bj_15650 설명.jpg) ★
-  3. [**15651**](https://github.com/seyeonn/BeakJoon/blob/master/src/Bj_15651.java): N과 M (3) _ 자기 중복 포함 순열
-  4. [**15652**](https://github.com/seyeonn/BeakJoon/blob/master/src/Bj_15652.java): N과 M (4) _ 자기 중복 포함 조합 ★
-  5. [**9663**](https://github.com/seyeonn/BeakJoon/blob/master/src/Bj_9663.java): N-Queen _ [**주석**](https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/주석/Bj_9663 설명.jpg) ★★
-  6. [**2580**](https://github.com/seyeonn/BeakJoon/blob/master/src/Bj_2580.java): 스도쿠 ★
-  7. [**14888**](https://github.com/seyeonn/BeakJoon/blob/master/src/Bj_14888.java): 연산자 끼워넣기
-  8. [**14889**](https://github.com/seyeonn/BeakJoon/blob/master/src/Bj_14889.java): 스타트와 링크
+  1. [**15649 swap 풀이 ★**](https://github.com/seyeonn/BeakJoon/blob/master/src/step15/Bj_15649.java) / [**DFS풀이 ★★**](https://github.com/seyeonn/BeakJoon/blob/master/src/Bj_15649_2.java): N과 M (1) _ 순열 _ [**주석**](https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/주석/Bj_15649 설명.jpg)
+  2. [**15650**](https://github.com/seyeonn/BeakJoon/blob/master/src/step15/Bj_15650.java): N과 M (2) _ 조합 _ [**주석**](https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/주석/Bj_15650 설명.jpg) ★
+  3. [**15651**](https://github.com/seyeonn/BeakJoon/blob/master/src/step15/Bj_15651.java): N과 M (3) _ 자기 중복 포함 순열
+  4. [**15652**](https://github.com/seyeonn/BeakJoon/blob/master/src/step15/Bj_15652.java): N과 M (4) _ 자기 중복 포함 조합 ★
+  5. [**9663**](https://github.com/seyeonn/BeakJoon/blob/master/src/step15/Bj_9663.java): N-Queen _ [**주석**](https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/주석/Bj_9663 설명.jpg) ★★
+  6. [**2580**](https://github.com/seyeonn/BeakJoon/blob/master/src/step15/Bj_2580.java): 스도쿠 ★
+  7. [**14888**](https://github.com/seyeonn/BeakJoon/blob/master/src/step15/Bj_14888.java): 연산자 끼워넣기
+  8. [**14889**](https://github.com/seyeonn/BeakJoon/blob/master/src/step15/Bj_14889.java): 스타트와 링크
 
   ------
 
