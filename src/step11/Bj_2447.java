@@ -1,3 +1,9 @@
+/*
+ * x=1, y=1 일 때만 공백
+ * 입력은 3의 배수
+ * fractal: 일부 작은 조각이 전체와 비슷한 기하학적 형태(자기 유사성)
+ */
+
 package step11;
 
 import java.util.Arrays;
