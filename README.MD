@@ -229,7 +229,13 @@
   7. [**2579**](https://github.com/seyeonn/BeakJoon/blob/master/src/step16/Bj_2579.java): 계단 오르기 ★
   8. [**1463**](https://github.com/seyeonn/BeakJoon/blob/master/src/step16/Bj_1463.java): 1로 만들기 ★
   9. [**10844**](https://github.com/seyeonn/BeakJoon/blob/master/src/step16/Bj_10844.java): 쉬운 계단수 ★
-
+  10. [**2156**](https://github.com/seyeonn/BeakJoon/blob/master/src/step16/Bj_2156.java): 포도주 시식
+  11. [**11053**](https://github.com/seyeonn/BeakJoon/blob/master/src/step16/Bj_11053.java): 가장 긴 증가하는 부분 수열 ★
+  12. [**11054**](https://github.com/seyeonn/BeakJoon/blob/master/src/step16/Bj_11054.java): 가장 긴 바이토닉 부분 수열 ★
+  13. [**2565**](https://github.com/seyeonn/BeakJoon/blob/master/src/step16/Bj_2565.java): 전깃줄
+  14. [**9251**](https://github.com/seyeonn/BeakJoon/blob/master/src/step16/Bj_9251.java): LCS ★
+  15. [**1912**](https://github.com/seyeonn/BeakJoon/blob/master/src/step16/Bj_1912.java): 연속합 
+  16. [**12865**](https://github.com/seyeonn/BeakJoon/blob/master/src/step16/Bj_12865.java): 평범한 배낭 ★★
 ------
 
 - #### Etc _ Finished
