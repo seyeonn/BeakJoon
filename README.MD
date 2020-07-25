@@ -236,8 +236,24 @@
   14. [**9251**](https://github.com/seyeonn/BeakJoon/blob/master/src/step16/Bj_9251.java): LCS ★
   15. [**1912**](https://github.com/seyeonn/BeakJoon/blob/master/src/step16/Bj_1912.java): 연속합 
   16. [**12865**](https://github.com/seyeonn/BeakJoon/blob/master/src/step16/Bj_12865.java): 평범한 배낭 ★★
-------
 
+  ------
+
+- #### 17단계 : 실습 3
+
+  - 아직 준비중
+
+  ------
+  
+- #### 18단계 : 그리디 알고리즘
+
+  1. [**11047**](https://github.com/seyeonn/BeakJoon/blob/master/src/step18/Bj_11047.java): 동전 0
+  2. [**1931**](https://github.com/seyeonn/BeakJoon/blob/master/src/step18/Bj_1931.java): 회의실배정
+  3. [**11399**](https://github.com/seyeonn/BeakJoon/blob/master/src/step18/Bj_11399.java): ATM
+  4. [**1541**](https://github.com/seyeonn/BeakJoon/blob/master/src/step18/Bj_1541.java): 잃어버린 괄호
+
+  ------
+  
 - #### Etc _ Finished
 
   - [**1924번**](https://github.com/seyeonn/BeakJoon/blob/master/src/etc/Bj_1924.java) : 2007년
