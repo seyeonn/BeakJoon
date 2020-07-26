@@ -2,7 +2,7 @@
 
 (README 출처 : @audtjr9514)
 
-@audtjr9514 @nsap19 과 함께하는 자바로 풀어보는 백준 알고리즘 단계별 - 효율적으로 하고있는지는 모르겠지만 일단 풀어본다
+@audtjr9514 @nsap19 @hyeonic 과 함께하는 자바로 풀어보는 백준 알고리즘 단계별 - 효율적으로 하고있는지는 모르겠지만 일단 풀어본다
 
 ### 백준 알고리즘의 단계별 풀어보기
 
@@ -36,6 +36,8 @@
   - **[14단계 : 정렬](https://github.com/seyeonn/BeakJoon/blob/master/README.MD#14단계--정렬-_-finished)**
   - **[15단계 : 백트래킹](https://github.com/seyeonn/BeakJoon/blob/master/README.MD#15단계--백트래킹-_-finished)**
   - **[16단계 : 동적 계획법 1](https://github.com/seyeonn/BeakJoon/blob/master/README.MD#16단계--동적-계획법-_-ing)**
+  - **[17단계 : 실습 3](https://github.com/seyeonn/BeakJoon/blob/master/README.MD#17단계--실습-3)**
+  - **[18단계 : 그리디 알고리즘](https://github.com/seyeonn/BeakJoon/blob/master/README.MD#18단계--그리디-알고리즘-_-finished)**
   - **[Etc](https://github.com/seyeonn/BeakJoon/blob/master/README.MD#etc-_-finished)**
 
 ------
