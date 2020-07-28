@@ -220,15 +220,15 @@
 
 - #### 16단계 : 동적 계획법 _ 
 
-  1. [**2748**](https://github.com/seyeonn/BeakJoon/blob/master/src/Bj_2748.java): 피보나치 수 2
-  2. [**1003**](https://github.com/seyeonn/BeakJoon/blob/master/src/Bj_1003.java): 피보나치 함수
-  3. [**1904**](https://github.com/seyeonn/BeakJoon/blob/master/src/Bj_1904.java): 01타일
-  4. [**9461**](https://github.com/seyeonn/BeakJoon/blob/master/src/Bj_9461.java): 파도반 수열
-  5. [**1149**](https://github.com/seyeonn/BeakJoon/blob/master/src/Bj_1149.java): RGB 거리 ★
-  6. [**1932**](https://github.com/seyeonn/BeakJoon/blob/master/src/Bj_1932.java): 정수 삼각형
-  7. [**2579**](https://github.com/seyeonn/BeakJoon/blob/master/src/Bj_2579.java): 계단 오르기 ★
-  8. [**1463**](https://github.com/seyeonn/BeakJoon/blob/master/src/Bj_1463.java): 1로 만들기 ★
-  9. [**10844**](https://github.com/seyeonn/BeakJoon/blob/master/src/Bj_10844.java): 쉬운 계단수 ★
+  1. [**2748**](https://github.com/seyeonn/BeakJoon/blob/master/src/step16/Bj_2748.java): 피보나치 수 2
+  2. [**1003**](https://github.com/seyeonn/BeakJoon/blob/master/src/step16/Bj_1003.java): 피보나치 함수
+  3. [**1904**](https://github.com/seyeonn/BeakJoon/blob/master/src/step16/Bj_1904.java): 01타일
+  4. [**9461**](https://github.com/seyeonn/BeakJoon/blob/master/src/step16/Bj_9461.java): 파도반 수열
+  5. [**1149**](https://github.com/seyeonn/BeakJoon/blob/master/src/step16/Bj_1149.java): RGB 거리 ★
+  6. [**1932**](https://github.com/seyeonn/BeakJoon/blob/master/src/step16/Bj_1932.java): 정수 삼각형
+  7. [**2579**](https://github.com/seyeonn/BeakJoon/blob/master/src/step16/Bj_2579.java): 계단 오르기 ★
+  8. [**1463**](https://github.com/seyeonn/BeakJoon/blob/master/src/step16/Bj_1463.java): 1로 만들기 ★
+  9. [**10844**](https://github.com/seyeonn/BeakJoon/blob/master/src/step16/Bj_10844.java): 쉬운 계단수 ★
 
 ------
 
