@@ -207,7 +207,7 @@
 
   ------
 
-- #### 15단계 : 백트래킹 _ ~ing
+- #### 15단계 : 백트래킹 _ Finished
 
   1. [**15649 swap 풀이 ★**](https://github.com/seyeonn/BeakJoon/blob/master/src/step15/Bj_15649.java) / [**DFS풀이 ★★**](https://github.com/seyeonn/BeakJoon/blob/master/src/Bj_15649_2.java): N과 M (1) _ 순열 _ [**주석**](https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/주석/Bj_15649 설명.jpg)
   2. [**15650**](https://github.com/seyeonn/BeakJoon/blob/master/src/step15/Bj_15650.java): N과 M (2) _ 조합 _ [**주석**](https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/주석/Bj_15650 설명.jpg) ★
@@ -220,7 +220,7 @@
 
   ------
 
-- #### 16단계 : 동적 계획법 _ 
+- #### 16단계 : 동적 계획법 _ Finished
 
   1. [**2748**](https://github.com/seyeonn/BeakJoon/blob/master/src/step16/Bj_2748.java): 피보나치 수 2
   2. [**1003**](https://github.com/seyeonn/BeakJoon/blob/master/src/step16/Bj_1003.java): 피보나치 함수
@@ -247,7 +247,7 @@
 
   ------
   
-- #### 18단계 : 그리디 알고리즘
+- #### 18단계 : 그리디 알고리즘 _ Finished
 
   1. [**11047**](https://github.com/seyeonn/BeakJoon/blob/master/src/step18/Bj_11047.java): 동전 0
   2. [**1931**](https://github.com/seyeonn/BeakJoon/blob/master/src/step18/Bj_1931.java): 회의실배정
